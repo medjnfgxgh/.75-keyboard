@@ -1651,7 +1651,7 @@
 		(descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u PCB")
 		(property "Reference" "~1"
-			(at -2.54 -2.794 0)
+			(at -2.615625 -2.628125 0)
 			(layer "F.SilkS")
 			(uuid "32debaf1-8f72-4bf3-9897-790a21dc1e6c")
 			(effects
@@ -1863,7 +1863,7 @@
 			(uuid "857a43dd-ec4c-4f89-951c-2f5078425269")
 		)
 		(fp_text user "${REFERENCE}"
-			(at -2.54 -2.794 0)
+			(at -2.615625 -2.628125 0)
 			(layer "F.Fab")
 			(uuid "002f137d-e354-4522-9abb-b1ce5246bbc4")
 			(effects
@@ -2243,7 +2243,7 @@
 		(descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u PCB")
 		(property "Reference" "PgDn1"
-			(at -2.54 -2.794 0)
+			(at -2.590625 -3.228125 0)
 			(layer "F.SilkS")
 			(uuid "7d7549c6-4d34-4da6-aac8-f50be749034e")
 			(effects
@@ -2455,7 +2455,7 @@
 			(uuid "f30e01f1-ce1d-4f77-a861-c6dcb81b0a18")
 		)
 		(fp_text user "${REFERENCE}"
-			(at -2.54 -2.794 0)
+			(at -2.590625 -3.228125 0)
 			(layer "F.Fab")
 			(uuid "ceb00f40-fd70-4358-aed3-6c7eb885657f")
 			(effects
@@ -16124,7 +16124,7 @@
 		(descr "Cherry MX keyswitch, 1.75u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.75u PCB")
 		(property "Reference" "Caps1"
-			(at -2.54 -2.794 0)
+			(at -2.559375 -3.103125 0)
 			(layer "F.SilkS")
 			(uuid "656bc9fb-1c53-4ebf-833b-f1187aa40611")
 			(effects
@@ -16336,7 +16336,7 @@
 			(uuid "67b6b123-094b-42b1-8884-e8a51c4dfe49")
 		)
 		(fp_text user "${REFERENCE}"
-			(at -2.54 -2.794 0)
+			(at -2.559375 -3.103125 0)
 			(layer "F.Fab")
 			(uuid "0f2d64f3-c236-410b-9a42-d72a9ea7a575")
 			(effects
@@ -21579,7 +21579,7 @@
 		(descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u PCB")
 		(property "Reference" "n2"
-			(at -2.54 -2.794 0)
+			(at -2.740625 -2.653125 0)
 			(layer "F.SilkS")
 			(uuid "3aabc3e6-1e76-4dbf-8a92-78485282b1e9")
 			(effects
@@ -21791,7 +21791,7 @@
 			(uuid "54ab6d67-bb99-49ac-bbd7-be57f749ae5e")
 		)
 		(fp_text user "${REFERENCE}"
-			(at -2.54 -2.794 0)
+			(at -2.740625 -2.653125 0)
 			(layer "F.Fab")
 			(uuid "07dd4a06-9e45-409a-b217-cb29bb54fc7f")
 			(effects
@@ -28342,7 +28342,7 @@
 		(descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u PCB")
 		(property "Reference" "]1"
-			(at -2.54 -2.794 0)
+			(at -2.540625 -2.953125 0)
 			(layer "F.SilkS")
 			(uuid "f0306e6c-10ce-4ccd-a952-50c4db2ad6c3")
 			(effects
@@ -28554,7 +28554,7 @@
 			(uuid "6e18117d-08a2-4e95-9243-55fc30c0a93d")
 		)
 		(fp_text user "${REFERENCE}"
-			(at -2.54 -2.794 0)
+			(at -2.54 -2.953125 0)
 			(layer "F.Fab")
 			(uuid "25fb18a5-f495-4ff6-bba8-d318417896ed")
 			(effects
@@ -31381,7 +31381,7 @@
 		(descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u PCB")
 		(property "Reference" "[1"
-			(at -2.54 -2.794 0)
+			(at -2.540625 -2.928125 0)
 			(layer "F.SilkS")
 			(uuid "6f1ff23f-a194-454b-ae99-783e8e696c25")
 			(effects
@@ -31593,7 +31593,7 @@
 			(uuid "aa47618b-3e52-496f-8054-689d9de353c5")
 		)
 		(fp_text user "${REFERENCE}"
-			(at -2.54 -2.794 0)
+			(at -2.54 -2.928125 0)
 			(layer "F.Fab")
 			(uuid "59f0b9b7-649d-4e36-ae39-11876c73aea8")
 			(effects
@@ -39324,7 +39324,7 @@
 		(descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u PCB")
 		(property "Reference" "PgUp1"
-			(at -2.54 -2.794 0)
+			(at -3.715625 -2.928125 0)
 			(layer "F.SilkS")
 			(uuid "8a574b10-a01c-4d32-b460-ecd8823c3fd6")
 			(effects
@@ -39536,7 +39536,7 @@
 			(uuid "9985d4a5-00b7-4596-b8c5-d8ce2692e546")
 		)
 		(fp_text user "${REFERENCE}"
-			(at -2.54 -2.794 0)
+			(at -3.715625 -2.928125 0)
 			(layer "F.Fab")
 			(uuid "43b71332-e58a-4ea4-959d-bd6e30ed59b8")
 			(effects
@@ -40446,7 +40446,7 @@
 		(descr "Cherry MX keyswitch, 6.25u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 6.25u PCB")
 		(property "Reference" "Space1"
-			(at -2.54 -2.794 0)
+			(at -2.534375 -3.003125 0)
 			(layer "F.SilkS")
 			(uuid "f5e72711-4a0c-4043-bc02-e094d06b4074")
 			(effects
@@ -40658,7 +40658,7 @@
 			(uuid "a0f0c1f3-53e5-46b9-801c-1d72aa98a072")
 		)
 		(fp_text user "${REFERENCE}"
-			(at -2.54 -2.794 0)
+			(at -2.534375 -3.003125 0)
 			(layer "F.Fab")
 			(uuid "8f1514ad-6797-44ea-9448-b806f2e2c493")
 			(effects
@@ -43868,7 +43868,7 @@
 		(descr "Cherry MX keyswitch, 2.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 2.00u PCB")
 		(property "Reference" "Backspace1"
-			(at -2.54 -2.794 0)
+			(at -2.540625 -3.228125 0)
 			(layer "F.SilkS")
 			(uuid "977cf481-1c76-4913-bde9-4870373d6440")
 			(effects
@@ -44080,7 +44080,7 @@
 			(uuid "94fd6d69-b7a7-4a6b-bf6b-a260147962a5")
 		)
 		(fp_text user "${REFERENCE}"
-			(at -2.54 -2.794 0)
+			(at -2.540625 -3.228125 0)
 			(layer "F.Fab")
 			(uuid "70094ba4-7ee6-4d9b-a325-3026e78fbe59")
 			(effects
